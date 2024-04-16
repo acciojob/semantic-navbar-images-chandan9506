@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.nav-section{
+	background-color:aqua;
+	display:flex;
+	justify-content:space-between;
+}
+.list{
+	list-style-type:none;
+}
+.heading{
+margin-left:220px
+}
+.image{
+	display:block;
+	margin:auto;
+	margin-top:10px;
+}
